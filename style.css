@@ -5,6 +5,10 @@
     padding: 20px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .bg-gray {
     background-color: #f8f9fa;
 }
@@ -28,8 +32,7 @@
 }
 
 .carousel-item img{
-    height: 450px;
-    width: 70%;
+    height: 400px;
     object-fit: scale-down;
 }
 
