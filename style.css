@@ -85,3 +85,40 @@ section {
     margin-bottom: 1rem;
 }
 
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.navbar.dark-mode {
+    background-color: #333;
+}
+
+.card.dark-mode {
+    background-color: #444;
+    color: #ffffff;
+}
+
+.btn.dark-mode {
+    background-color: #555;
+    color: #ffffff;
+}
+
+.form-control.dark-mode {
+    background-color: #333;
+    color: #ffffff;
+}
+
+.carousel-item.dark-mode img {
+    filter: brightness(0.8);
+}
+
+footer.dark-mode {
+    background-color: #333;
+    color: #ffffff;
+}
+
+
+.skill {
+    color: black;
+}
