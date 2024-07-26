@@ -28,5 +28,3 @@ document.addEventListener('DOMContentLoaded', function() {
         skillHtml.insertAdjacentHTML('beforeend', skillElement);
     })
 })
-
-console.log('Hello World')
